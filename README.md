@@ -36,19 +36,11 @@
 
 <!-- zone is for the counters/streaks: commits streaks -->
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pharmakarios1" alt="pharmakarios1" /></a> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pharmakarios1-ma&theme=matrix" alt="pharmakarios1" /></a> </p>
-
+<p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=ryo-ma&row=2&column=3"><img src="https://github-profile-trophy.vercel.app/?username=pharmakarios1" alt="pharmakarios1" /></a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pharmakarios1&show_icons=true&locale=en&layout=compact" alt="pharmakarios1" /></p>
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=pharmakarios1&show_icons=true&locale=en" alt="pharmakarios1" /></p>
-
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=pharmakarios1)](https://github.com/ryo-ma/github-profile-trophy)
-
-
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pharmakarios1&" alt="pharmakarios1" /></p>
 
