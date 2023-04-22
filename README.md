@@ -16,7 +16,7 @@
 
 
 <div>
-        <h3 align= "center"> +234-806-0514-714 </h3>
+        <h3 align= "left"> +234-806-0514-714 </h3>
 </div>
 
 <h3 align="left">Connect with me:</h3>
