@@ -9,7 +9,7 @@
 <p><img align="center" alt="Coding" width="400" src="https://media0.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif?cid=ecf05e47f73gum2aedvhg4n2sy6b07q4m0m21h42wazwgb6y&rid=giphy.gif&ct=g" /></p>
 
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pharmakarios1" alt="pharmakarios" /></a> </p>
+
 
 
 - 🌱 I’m currently learning **C-Programming and Python**
@@ -24,10 +24,6 @@
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/Pharmakarios_1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/Pharmakarios_1" height="30" width="40" /></a>
-
-<a href="https://fb.com/blessed.akhigbe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="blessed.akhigbe" height="30" width="40" /></a>
-<a href="https://instagram.com/blessedakhigbe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="blessedakhigbe" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/akhigbeblessed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="akhigbeblessed" height="30" width="40" /></a>
 
 
 <!-- here is for the tools learnt so far -->
@@ -48,4 +44,8 @@
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pharmakarios1&" alt="pharmakarios1" /></p>
+
+
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pharmakarios1" alt="pharmakarios" /></a> </p>
 
