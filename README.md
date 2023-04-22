@@ -1,14 +1,11 @@
 [![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Blessed Akhigbe</h1>
 <h3 align="center">A passionate Full Stack developer from Nigeria</h3>
-<img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg">
-
-
 
 <!-- here picture updates -->
-<p><img align="center" alt="Coding" width="400" src="https://media0.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif?cid=ecf05e47f73gum2aedvhg4n2sy6b07q4m0m21h42wazwgb6y&rid=giphy.gif&ct=g" /></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pharmakarios1&label=Profile%20views&color=0e75b6&style=flat" alt="pharmakarios1" /> </p>
+<p><img align="center" alt="Coding" width="400" src="https://media0.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif?cid=ecf05e47f73gum2aedvhg4n2sy6b07q4m0m21h42wazwgb6y&rid=giphy.gif&ct=g" /></p>
 <p align="right"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pharmakarios1" alt="pharmakarios" /></a> </p>
 
 
@@ -43,4 +40,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pharmakarios1&show_icons=true&locale=en" alt="pharmakarios1" /></p>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=&" alt="pharmakarios1" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=pharmakarios&" alt="pharmakarios1" /></p>
