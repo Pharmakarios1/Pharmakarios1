@@ -38,8 +38,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pharmakarios1" alt="pharmakarios1" /></a> </p>
 
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=matrix" alt="pharmakarios1" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pharmakarios1-ma&theme=matrix" alt="pharmakarios1" /></a> </p>
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pharmakarios1&show_icons=true&locale=en&layout=compact" alt="pharmakarios1" /></p>
