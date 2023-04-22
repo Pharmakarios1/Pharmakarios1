@@ -46,10 +46,10 @@
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=pharmakarios1&show_icons=true&locale=en" alt="pharmakarios1" /></p>
 
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=pharmakarios1)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pharmakarios1&" alt="pharmakarios1" /></p>
 
 
-
-https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=matrix
