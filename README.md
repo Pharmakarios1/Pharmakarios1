@@ -3,6 +3,10 @@
 <h3 align="center">A passionate Full Stack developer from Nigeria</h3>
 
 <!-- here picture updates -->
+<!-- here is the social updates -->
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+<a href="https://twitter.com/Pharmakarios_1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/Pharmakarios_1" height="30" width="40" /></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pharmakarios1&label=Profile%20views&color=0e75b6&style=flat" alt="pharmakarios1" /> </p>
 
@@ -15,19 +19,8 @@
 -  tel: +234-806-0514-714
 
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="href="https://github-profile-trophy.vercel.app/?username=pharmakarios1-ma&theme=matrix" alt="pharmakarios1"/></a></p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pharmakarios1" alt="pharmakarios" /></a> </p>
-
-
-
-
-
-
-
-<!-- here is the social updates -->
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://twitter.com/Pharmakarios_1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/Pharmakarios_1" height="30" width="40" /></a>
 
 
 <!-- here is for the tools learnt so far -->
@@ -42,10 +35,12 @@
 
 <!-- zone is for the counters/streaks: commits streaks -->
 
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pharmakarios1&show_icons=true&locale=en&layout=compact" alt="pharmakarios1" /></p>
+
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=pharmakarios1&show_icons=true&locale=en" alt="pharmakarios1" /></p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pharmakarios1&show_icons=true&locale=en&layout=compact" alt="pharmakarios1" /></p>
 
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=pharmakarios1&" alt="pharmakarios1" /></p>
