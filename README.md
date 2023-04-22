@@ -4,12 +4,9 @@
 
 <!-- here picture updates -->
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=pharmakarios1&label=Profile%20views&color=0e75b6&style=flat" alt="pharmakarios1" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pharmakarios1&label=Profile%20views&color=0e75b6&style=flat" alt="pharmakarios1" /> </p>
 
-<p><img align="center" alt="Coding" width="400" src="https://media0.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif?cid=ecf05e47f73gum2aedvhg4n2sy6b07q4m0m21h42wazwgb6y&rid=giphy.gif&ct=g" /></p>
-
-
-
+<p><img align="left" alt="Coding" width="400" src="https://media0.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif?cid=ecf05e47f73gum2aedvhg4n2sy6b07q4m0m21h42wazwgb6y&rid=giphy.gif&ct=g" /></p>
 
 
 - 🌱 I’m currently learning **C-Programming and Python**
@@ -40,12 +37,12 @@
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=pharmakarios1&show_icons=true&locale=en" alt="pharmakarios1" /></p>
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pharmakarios1&show_icons=true&locale=en&layout=compact" alt="pharmakarios1" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pharmakarios1&show_icons=true&locale=en&layout=compact" alt="pharmakarios1" /></p>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pharmakarios1&" alt="pharmakarios1" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=pharmakarios1&" alt="pharmakarios1" /></p>
 
 
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pharmakarios1" alt="pharmakarios" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pharmakarios1" alt="pharmakarios" /></a> </p>
 
