@@ -13,7 +13,7 @@ No mountain is to high to reach, No goal is too far-fetched. The willingness mus
 
 <!-- here picture updates -->
  # 💫 About Me:
- 💻 I'm a Pharm.D holder in Health; extremely passionate about healthtech<br>🔭 I’m at the moment a student of Alx and Holberton School<br>👯 I’m looking to collaborate on any task gigs<br>🤝 I’m looking for help with C programing language, Data Structure and Algorithm<br>🌱 I’m currently learning to become a full-stack developer<br>💬 Ask me about Python3 & Shell Scripting<br>⚡I am damn passionate about my learning phase<br>📫 Reach me <a href="akhigbeblessed@gmail.com"> Gmail</a><br>
+ 💻 I'm a healthtech enthusiast; extremely passionate about healthtech<br>🔭 I’m at the moment a student of Alx and Holberton School<br>👯 I’m looking to collaborate on any task gigs<br>🤝 I’m looking for help with C programing language, Data Structure and Algorithm<br>🌱 I’m currently learning to become a full-stack developer<br>💬 Ask me about Python3 & Shell Scripting<br>⚡I am damn passionate about my learning phase<br>📫 Reach me <a href="akhigbeblessed@gmail.com"> Gmail</a><br>
 
  # ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
