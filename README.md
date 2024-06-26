@@ -1,12 +1,15 @@
 <!-- Introduction -->
 
-[![](https://visitcount.itsvg.in/api?id=Pharmakarios1&icon=0&color=5)](https://visitcount.itsvg.in)
+
+ # ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
 <h1 align="center">Hi 👋, I'm Blessed Akhigbe</h1>
 <h3 align="center">A passionate Full Stack developer from Nigeria</h3>
 
 No mountain is to high to reach, No goal is too far-fetched. The willingness must first spring out from inner-core of any man to attain a feat. ~ Pharmakarios
+[![](https://visitcount.itsvg.in/api?id=Pharmakarios1&icon=0&color=5)](https://visitcount.itsvg.in)
 
 <!-- here picture updates -->
       
@@ -14,11 +17,8 @@ No mountain is to high to reach, No goal is too far-fetched. The willingness mus
      Reach out via: Akhigbeblessed@gmail.com
   
 
- # ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 <!-- Social media Gigs -->
-## 🌐 Socials:
+# 🌐 Socials:
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@akhigbeblessed) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/....)[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/blessed-akhigbe-pharm-d-968509b6/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/Pharmakarios_1) 
 <!-- Tech strongholds -->
 # 💻 Tech Stack:
@@ -27,10 +27,9 @@ No mountain is to high to reach, No goal is too far-fetched. The willingness mus
 ![](https://github-readme-stats.vercel.app/api?username=Pharmakarios1&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Pharmakarios1&theme=vue-dark&hide_border=true)<br/>
 
-## 🏆 GitHub Trophies:
-![](https://github-profile-trophy.vercel.app/?username=Pharmakarios1&theme=discord&no-frame=true&no-bg=false&margin-w=4)
 
-## 📊 Most Used Languages:
+
+# 📊 Most Used Languages:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pharmakarios1&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
