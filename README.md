@@ -1,22 +1,17 @@
 <!-- Introduction -->
-[![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif)](https://rishavchanda.io)
-<h1 align="center">Hi 👋, I'm Blessed Akhigbe</h1>
-<h3 align="center">A passionate Full Stack developer from Nigeria</h3>
-<img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg">
-<img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg">
-<!-- My Life's Philosophy -->
-
-
-
-  
-No mountain is to high to reach, No goal is too far-fetched. The willingness must first spring out from inner-core of any man to attain a feat. ~ Pharmakarios
 
 [![](https://visitcount.itsvg.in/api?id=Pharmakarios1&icon=0&color=5)](https://visitcount.itsvg.in)
 
 
+<h1 align="center">Hi 👋, I'm Blessed Akhigbe</h1>
+<h3 align="center">A passionate Full Stack developer from Nigeria</h3>
+
+No mountain is to high to reach, No goal is too far-fetched. The willingness must first spring out from inner-core of any man to attain a feat. ~ Pharmakarios
+
 <!-- here picture updates -->
- # 💫 Reach out via: Akhigbeblessed@gmail.com
+      
  💻 I am looking to collaborate on any task gigs using Reactjs, Nextjs,Express and TypeScript. <br/>
+     Reach out via: Akhigbeblessed@gmail.com
   
 
  # ✍️ Random Dev Quote
