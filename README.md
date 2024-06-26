@@ -26,8 +26,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=Pharmakarios1&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Pharmakarios1&theme=vue-dark&hide_border=true)<br/>
 
-
-
 # 📊 Most Used Languages:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pharmakarios1&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
